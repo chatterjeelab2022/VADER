@@ -1,3 +1,5 @@
+# Copyright (c) 2022-2026 Trustees of Boston College
+# SPDX-License-Identifier: Apache-2.0
 # -*- coding: utf-8 -*-
 """
 @author: Rachel Kelemen
