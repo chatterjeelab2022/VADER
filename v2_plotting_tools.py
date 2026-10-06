@@ -1,3 +1,5 @@
+# Copyright (c) 2022-2026 Trustees of Boston College
+# SPDX-License-Identifier: Apache-2.0
 import matplotlib.pyplot as plt
 import numpy as np
 import math
